@@ -19,12 +19,17 @@
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
 
-    --transition: all 400ms ease;
+    /* --color-bg: #000;
+    --color-bg-variant: #6e6b6b4d;
+    --color-primary: #d3d3d3;
+    --color-primary-variant: rgb(142 141 141 / 40%);
+    --color-white: #cacaca;
+    --color-light: rgb(244 240 240 / 60%); */
 
+    --transition: all 400ms ease;
     --container-width-lg: 75%;
     --container-width-md: 86%;
     --container-width-sm: 90%;
-
 }
 
 html {

@@ -28,12 +28,13 @@
     margin: 1rem;
     background: var(--color-bg);
     border: 1px rgb(24, 19, 71) solid;
+    /* border: 1px rgb(63, 62, 63) solid; */
     border-radius: 50%;
     position: relative;
     width: 7rem;
     height: 7rem;
     color: #fff;
-    box-shadow: 0 0 1.5em rgba(0, 0, 0, 0.6);
+    box-shadow: 0 0 1.5em rgba(19, 19, 19, 0.6);
 }
 
 .circle-inner {
